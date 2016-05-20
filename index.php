@@ -54,10 +54,7 @@
                 <h2><p>Contato</p></h2><br>
                     <p>email@contato.com.br</p>
                     <a href="www.dnewsti.com.br/dinicley/" target="_blank"><p>Desenvolvido por: Dinicley S. Alves - DNewsTI Tecnolgia</p></a>
-
                     <!-- Conheça o Portal DNewsTI Tecnolgia - www.dnewsti.com.br-->
-
-                    
             </div>              
         </div>
 </body></html>
